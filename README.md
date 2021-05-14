@@ -13,7 +13,7 @@ Within my notebook, there are six main sections:
 * Building a Subset of information
 * Utilizing Gridsearch CV
 * Fine Tuning of Model
-* Utilizing API to gather new information
+* Utilizing API to enter new data to test on predictions modeling
 
 ## Resources
 
