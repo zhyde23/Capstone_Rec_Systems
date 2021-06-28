@@ -1,4 +1,4 @@
-# Capstone_Rec_Systems
+# Yelp_JSON_Rec_Systems
 
 ## Introduction
 In this project, I created a Colaborative-Filtering (SVD) model recommending restaurants to a user with similar ratings of other silimar restaraunts. Utilizing Yelp open JSON files, I merged and cleaned over 8 million data entries to run within Surprise modeling.
